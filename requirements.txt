@@ -1,8 +1,7 @@
 streamlit
-google-generativeai
+google-genai
 rich
 markdown-it-py
 python-dotenv
 gtts
 pillow
-google

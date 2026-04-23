@@ -5,3 +5,4 @@ markdown-it-py
 python-dotenv
 gtts
 pillow
+google

@@ -39,9 +39,9 @@ A Streamlit web application that uses Google's Gemini AI to analyze images of yo
    *(Note: Ensure `streamlit`, `google-genai`, `gTTS`, `python-dotenv`, and `pillow` are in your `requirements.txt`)*
 
 4. **Set up Environment Variables:**
-   Create a `.env` file in the root directory and add your Google API Key:
+   Create a `.env` file in the root directory and add your Gemini API Key:
    ```env
-   GOOGLE_API_KEY="your_api_key_here"
+   GEMINI_API_KEY="your_api_key_here"
    ```
 
 ## Running the Application

@@ -32,7 +32,7 @@ def audio_transcription(text):
 
 
 def quiz_generator(images, difficulty):
-    prompt = f"Generate 3 quizzes based on the {difficulty}. Make sure to add markdown to differntiate the options"
+    prompt = f"Generate 3 quizzes based on the {difficulty}. Make sure to add markdown to differntiate the options and the correct answer"
     
     response = client.models.generate_content(
         model="gemini-3-flash-preview",
